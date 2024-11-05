@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../springintro"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "disabled",
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
