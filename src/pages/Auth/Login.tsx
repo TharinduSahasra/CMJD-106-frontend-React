@@ -61,7 +61,7 @@ function Login() {
 
                     <div className="mt-8">
                         <button type="submit" className="bg-gray-800 text-white px-4 py-2 rounded-lg w-full hover:bg-gray-950">Login</button>
-                        <Link to="/auth/users" className="bg-gray-800 text-white px-5 py-2 me-3">Sing Up</Link>
+                        <Link to="/auth/users" className="bg-gray-500 text-white px-4 py-2 rounded-lg w-full hover:bg-gray-950">Sing Up</Link>
 
                     </div>
                 </form>
